@@ -43,3 +43,7 @@ Ensure you have Python installed (version 3.7 or above). You can download it fro
    ```bash
    python app.py
 
+## Output
+![Screenshot](static/output1_screenshot.png)
+![Screenshot](static/output2_screenshot.png)
+
