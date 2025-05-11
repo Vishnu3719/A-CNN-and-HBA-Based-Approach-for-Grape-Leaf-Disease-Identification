@@ -2,8 +2,8 @@
 
 A web application that predicts whether a grape leaf is healthy or infected using the (https://github.com/Vishnu3719/Dataset.git) from this git_id. The application is built using Flask for both frontend and backend.
 
-CNN - Convolutional Neural Network
-HBA - Honey Badger Algorithm
+1.CNN - Convolutional Neural Network
+2.HBA - Honey Badger Algorithm
 
 ---
 
