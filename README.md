@@ -29,6 +29,17 @@ Ensure you have Python installed (version 3.7 or above). You can download it fro
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-3. Run the Application
+3.Download Dataset in kaggle or other 
+    Create an folder name as dataset and upload the file in given order
+
+    ```dataset\train\healthy and infected - 2 folders
+    ```create an onmore folder name as modelsin same dir
+    
+4. Train the dataset to run the file
+   ```bash
+   python train_cnn.py
+   ```after creating model_cnn.pth
+5. Run the application
    ```bash
    python app.py
+
